@@ -1,3 +1,1 @@
-#!/bin/bash
-
-This repository is for shell file execute permissions
+# This repository is for shell file execute permissions
